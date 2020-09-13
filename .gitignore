@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+backup/
+*tfstate*
+.terraform
+*.log
+.vagrant
+*.pem
